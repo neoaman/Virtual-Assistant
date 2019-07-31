@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 _________________________________________________________________________________________________________________________________
 Adding Some codes to read the Data set using the voice commands. So please Don't try it at home to show every one the magic.
 as you also having titenium in your blood and may serious issue for your family member.
-
 """
 # Read the data set from online is best idea
 
@@ -248,10 +247,3 @@ if __name__ == "__main__":
                     b=2
         else:
             speak(f"I think you say..!{query}")
-
-
-
-
-
-
-
