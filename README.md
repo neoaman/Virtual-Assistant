@@ -41,5 +41,5 @@ install all these packages
   e.g. what is the time
 > Most Important Kindly read the python codes carefully and try to understand, for exiting plot say "exit plot" and for exiting data say "exit data" finally exiting the program say "exit"
 
-### I am here to listen for your problems, please comment, i will reply as soon as possible
+### I am here to listen for your problems, please comment, I will reply, as soon as possible
   
